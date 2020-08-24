@@ -1,0 +1,89 @@
+cp : 0
+82/82 - 169s - loss: 21580.7363 - dense_2_loss: 3936.4854 - dense_5_loss: 4701.7729 - dense_8_loss: 6542.2603 - dense_11_loss: 6400.2119 - dense_2_acc: 0.0000e+00 - dense_5_acc: 0.0000e+00 - dense_8_acc: 0.0000e+00 - dense_11_acc: 0.0000e+00 - val_loss: 26742.1719 - val_dense_2_loss: 3570.6919 - val_dense_5_loss: 11498.4355 - val_dense_8_loss: 5193.3237 - val_dense_11_loss: 6479.7144 - val_dense_2_acc: 0.0000e+00 - val_dense_5_acc: 0.0000e+00 - val_dense_8_acc: 0.0000e+00 - val_dense_11_acc: 0.0000e+00
+cp : 1
+Found 1633 validated image filenames.
+82/82 - 225s - loss: 22703.8867 - dense_2_loss: 2487.5857 - dense_5_loss: 9119.0449 - dense_8_loss: 6007.9751 - dense_11_loss: 5089.2788 - dense_2_acc: 0.0000e+00 - dense_5_acc: 0.0000e+00 - dense_8_acc: 0.0000e+00 - dense_11_acc: 0.0000e+00 - val_loss: 19960.0332 - val_dense_2_loss: 4415.2832 - val_dense_5_loss: 10812.9297 - val_dense_8_loss: 1467.5763 - val_dense_11_loss: 3264.2432 - val_dense_2_acc: 0.0000e+00 - val_dense_5_acc: 0.0000e+00 - val_dense_8_acc: 0.0000e+00 - val_dense_11_acc: 0.0000e+00
+cp : 2
+Found 1633 validated image filenames.
+82/82 - 232s - loss: 21617.2852 - dense_2_loss: 2659.3782 - dense_5_loss: 6568.8418 - dense_8_loss: 5845.1035 - dense_11_loss: 6543.9614 - dense_2_acc: 0.0000e+00 - dense_5_acc: 0.0000e+00 - dense_8_acc: 0.0000e+00 - dense_11_acc: 0.0000e+00 - val_loss: 18568.3340 - val_dense_2_loss: 1125.3142 - val_dense_5_loss: 11311.6309 - val_dense_8_loss: 3594.1567 - val_dense_11_loss: 2537.2329 - val_dense_2_acc: 0.0000e+00 - val_dense_5_acc: 0.0000e+00 - val_dense_8_acc: 0.0000e+00 - val_dense_11_acc: 0.0000e+00
+cp : 3
+Found 1633 validated image filenames.
+82/82 - 235s - loss: 11112.4639 - dense_2_loss: 5159.9937 - dense_5_loss: 3086.1348 - dense_8_loss: 1391.7512 - dense_11_loss: 1474.5839 - dense_2_acc: 0.0000e+00 - dense_5_acc: 0.0000e+00 - dense_8_acc: 0.0000e+00 - dense_11_acc: 0.0000e+00 - val_loss: 27128.6777 - val_dense_2_loss: 1043.3816 - val_dense_5_loss: 20085.6777 - val_dense_8_loss: 2372.9436 - val_dense_11_loss: 3626.6724 - val_dense_2_acc: 0.0000e+00 - val_dense_5_acc: 0.0000e+00 - val_dense_8_acc: 0.0000e+00 - val_dense_11_acc: 0.0000e+00
+cp : 4
+Found 1633 validated image filenames.
+82/82 - 239s - loss: 21113.7480 - dense_2_loss: 3738.2068 - dense_5_loss: 5412.9297 - dense_8_loss: 6874.3389 - dense_11_loss: 5088.2715 - dense_2_acc: 0.0000e+00 - dense_5_acc: 0.0000e+00 - dense_8_acc: 0.0000e+00 - dense_11_acc: 0.0000e+00 - val_loss: 10448.3545 - val_dense_2_loss: 1208.2743 - val_dense_5_loss: 3495.2505 - val_dense_8_loss: 1660.8859 - val_dense_11_loss: 4083.9443 - val_dense_2_acc: 0.0000e+00 - val_dense_5_acc: 0.0000e+00 - val_dense_8_acc: 0.0000e+00 - val_dense_11_acc: 0.0000e+00
+cp : 5
+Found 1633 validated image filenames.
+82/82 - 243s - loss: 10797.6475 - dense_2_loss: 1508.4423 - dense_5_loss: 4458.3618 - dense_8_loss: 2527.7134 - dense_11_loss: 2303.1289 - dense_2_acc: 0.0000e+00 - dense_5_acc: 0.0000e+00 - dense_8_acc: 0.0000e+00 - dense_11_acc: 0.0000e+00 - val_loss: 13520.5205 - val_dense_2_loss: 3293.5884 - val_dense_5_loss: 4285.5200 - val_dense_8_loss: 2195.5000 - val_dense_11_loss: 3745.9136 - val_dense_2_acc: 0.0000e+00 - val_dense_5_acc: 0.0000e+00 - val_dense_8_acc: 0.0000e+00 - val_dense_11_acc: 0.0000e+00
+cp : 6
+Found 1633 validated image filenames.
+82/82 - 248s - loss: 12528.6455 - dense_2_loss: 4358.1963 - dense_5_loss: 4637.2524 - dense_8_loss: 1875.5746 - dense_11_loss: 1657.6206 - dense_2_acc: 0.0000e+00 - dense_5_acc: 0.0000e+00 - dense_8_acc: 0.0000e+00 - dense_11_acc: 0.0000e+00 - val_loss: 17334.1230 - val_dense_2_loss: 3756.7510 - val_dense_5_loss: 10817.3691 - val_dense_8_loss: 871.7886 - val_dense_11_loss: 1888.2166 - val_dense_2_acc: 0.0000e+00 - val_dense_5_acc: 0.0000e+00 - val_dense_8_acc: 0.0000e+00 - val_dense_11_acc: 0.0000e+00
+cp : 7
+Found 1633 validated image filenames.
+82/82 - 239s - loss: 11698.0781 - dense_2_loss: 3027.8306 - dense_5_loss: 5022.6021 - dense_8_loss: 1628.6481 - dense_11_loss: 2018.9996 - dense_2_acc: 0.0000e+00 - dense_5_acc: 0.0000e+00 - dense_8_acc: 0.0000e+00 - dense_11_acc: 0.0000e+00 - val_loss: 20067.4863 - val_dense_2_loss: 3344.6130 - val_dense_5_loss: 9906.9678 - val_dense_8_loss: 3208.1191 - val_dense_11_loss: 3607.7874 - val_dense_2_acc: 0.0000e+00 - val_dense_5_acc: 0.0000e+00 - val_dense_8_acc: 0.0000e+00 - val_dense_11_acc: 0.0000e+00
+cp : 8
+Found 1633 validated image filenames.
+82/82 - 243s - loss: 7287.4258 - dense_2_loss: 1094.3932 - dense_5_loss: 3075.0034 - dense_8_loss: 1588.5011 - dense_11_loss: 1529.5264 - dense_2_acc: 0.0000e+00 - dense_5_acc: 0.0000e+00 - dense_8_acc: 0.0000e+00 - dense_11_acc: 0.0000e+00 - val_loss: 12276.4023 - val_dense_2_loss: 4017.6528 - val_dense_5_loss: 5316.8462 - val_dense_8_loss: 1184.6212 - val_dense_11_loss: 1757.2809 - val_dense_2_acc: 0.0000e+00 - val_dense_5_acc: 0.0000e+00 - val_dense_8_acc: 0.0000e+00 - val_dense_11_acc: 0.0000e+00
+cp : 9
+Found 1633 validated image filenames.
+82/82 - 249s - loss: 12034.5391 - dense_2_loss: 2685.1384 - dense_5_loss: 5645.3042 - dense_8_loss: 751.6935 - dense_11_loss: 2952.3999 - dense_2_acc: 0.0000e+00 - dense_5_acc: 0.0000e+00 - dense_8_acc: 0.0000e+00 - dense_11_acc: 0.0000e+00 - val_loss: 13072.4941 - val_dense_2_loss: 2351.5618 - val_dense_5_loss: 6418.0547 - val_dense_8_loss: 2551.8447 - val_dense_11_loss: 1751.0322 - val_dense_2_acc: 0.0000e+00 - val_dense_5_acc: 0.0000e+00 - val_dense_8_acc: 0.0000e+00 - val_dense_11_acc: 0.0000e+00
+cp : 10
+Found 1633 validated image filenames.
+82/82 - 252s - loss: 12028.9502 - dense_2_loss: 1424.6194 - dense_5_loss: 4834.2368 - dense_8_loss: 2578.2603 - dense_11_loss: 3191.8347 - dense_2_acc: 0.0000e+00 - dense_5_acc: 0.0000e+00 - dense_8_acc: 0.0000e+00 - dense_11_acc: 0.0000e+00 - val_loss: 8557.1152 - val_dense_2_loss: 933.6126 - val_dense_5_loss: 2949.4143 - val_dense_8_loss: 1930.6042 - val_dense_11_loss: 2743.4846 - val_dense_2_acc: 0.0000e+00 - val_dense_5_acc: 0.0000e+00 - val_dense_8_acc: 0.0000e+00 - val_dense_11_acc: 0.0000e+00
+cp : 11
+Found 1633 validated image filenames.
+82/82 - 250s - loss: 15159.2764 - dense_2_loss: 2474.0269 - dense_5_loss: 5702.8965 - dense_8_loss: 4068.4038 - dense_11_loss: 2913.9485 - dense_2_acc: 0.0000e+00 - dense_5_acc: 0.0000e+00 - dense_8_acc: 0.0000e+00 - dense_11_acc: 0.0000e+00 - val_loss: 20104.7090 - val_dense_2_loss: 1710.1515 - val_dense_5_loss: 12739.7754 - val_dense_8_loss: 2224.8142 - val_dense_11_loss: 3429.9673 - val_dense_2_acc: 0.0000e+00 - val_dense_5_acc: 0.0000e+00 - val_dense_8_acc: 0.0000e+00 - val_dense_11_acc: 0.0000e+00
+cp : 12
+Found 1633 validated image filenames.
+82/82 - 259s - loss: 12253.2920 - dense_2_loss: 2380.6008 - dense_5_loss: 5746.3208 - dense_8_loss: 1899.8213 - dense_11_loss: 2226.5513 - dense_2_acc: 0.0000e+00 - dense_5_acc: 0.0000e+00 - dense_8_acc: 0.0000e+00 - dense_11_acc: 0.0000e+00 - val_loss: 12107.6572 - val_dense_2_loss: 668.3230 - val_dense_5_loss: 3856.9819 - val_dense_8_loss: 2292.9482 - val_dense_11_loss: 5289.4048 - val_dense_2_acc: 0.0000e+00 - val_dense_5_acc: 0.0000e+00 - val_dense_8_acc: 0.0000e+00 - val_dense_11_acc: 0.0000e+00
+cp : 13
+Found 1633 validated image filenames.
+82/82 - 249s - loss: 16553.1172 - dense_2_loss: 2854.1177 - dense_5_loss: 4673.5088 - dense_8_loss: 4536.3770 - dense_11_loss: 4489.1113 - dense_2_acc: 0.0000e+00 - dense_5_acc: 0.0000e+00 - dense_8_acc: 0.0000e+00 - dense_11_acc: 0.0000e+00 - val_loss: 14970.7334 - val_dense_2_loss: 1264.3271 - val_dense_5_loss: 8091.2632 - val_dense_8_loss: 2515.2793 - val_dense_11_loss: 3099.8652 - val_dense_2_acc: 0.0000e+00 - val_dense_5_acc: 0.0000e+00 - val_dense_8_acc: 0.0000e+00 - val_dense_11_acc: 0.0000e+00
+cp : 14
+Found 1633 validated image filenames.
+82/82 - 250s - loss: 17171.7637 - dense_2_loss: 3219.0793 - dense_5_loss: 8543.5820 - dense_8_loss: 1906.7655 - dense_11_loss: 3502.3374 - dense_2_acc: 0.0000e+00 - dense_5_acc: 0.0000e+00 - dense_8_acc: 0.0000e+00 - dense_11_acc: 0.0000e+00 - val_loss: 21430.6621 - val_dense_2_loss: 1315.9723 - val_dense_5_loss: 13081.9932 - val_dense_8_loss: 3108.4504 - val_dense_11_loss: 3924.2451 - val_dense_2_acc: 0.0000e+00 - val_dense_5_acc: 0.0000e+00 - val_dense_8_acc: 0.0000e+00 - val_dense_11_acc: 0.0000e+00
+cp : 15
+Found 1633 validated image filenames.
+82/82 - 251s - loss: 17211.0879 - dense_2_loss: 1950.4493 - dense_5_loss: 6877.4458 - dense_8_loss: 3239.9502 - dense_11_loss: 5143.2432 - dense_2_acc: 0.0000e+00 - dense_5_acc: 0.0000e+00 - dense_8_acc: 0.0000e+00 - dense_11_acc: 0.0000e+00 - val_loss: 11591.8662 - val_dense_2_loss: 1267.5127 - val_dense_5_loss: 5575.7148 - val_dense_8_loss: 2195.3115 - val_dense_11_loss: 2553.3276 - val_dense_2_acc: 0.0000e+00 - val_dense_5_acc: 0.0000e+00 - val_dense_8_acc: 0.0000e+00 - val_dense_11_acc: 0.0000e+00
+cp : 16
+Found 1633 validated image filenames.
+82/82 - 251s - loss: 6515.3926 - dense_2_loss: 681.1368 - dense_5_loss: 2842.8330 - dense_8_loss: 1595.9377 - dense_11_loss: 1395.4839 - dense_2_acc: 0.0000e+00 - dense_5_acc: 0.0000e+00 - dense_8_acc: 0.0000e+00 - dense_11_acc: 0.0000e+00 - val_loss: 14605.2676 - val_dense_2_loss: 1823.0004 - val_dense_5_loss: 8982.8604 - val_dense_8_loss: 1355.6805 - val_dense_11_loss: 2443.7263 - val_dense_2_acc: 0.0000e+00 - val_dense_5_acc: 0.0000e+00 - val_dense_8_acc: 0.0000e+00 - val_dense_11_acc: 0.0000e+00
+cp : 17
+Found 1633 validated image filenames.
+82/82 - 248s - loss: 12768.9629 - dense_2_loss: 1969.0745 - dense_5_loss: 4766.1284 - dense_8_loss: 3055.4214 - dense_11_loss: 2978.3386 - dense_2_acc: 0.0000e+00 - dense_5_acc: 0.0000e+00 - dense_8_acc: 0.0000e+00 - dense_11_acc: 0.0000e+00 - val_loss: 29441.0059 - val_dense_2_loss: 3455.2515 - val_dense_5_loss: 17094.2988 - val_dense_8_loss: 4633.4048 - val_dense_11_loss: 4258.0542 - val_dense_2_acc: 0.0000e+00 - val_dense_5_acc: 0.0000e+00 - val_dense_8_acc: 0.0000e+00 - val_dense_11_acc: 0.0000e+00
+cp : 18
+Found 1633 validated image filenames.
+82/82 - 254s - loss: 14675.0029 - dense_2_loss: 3663.8384 - dense_5_loss: 4522.5132 - dense_8_loss: 3253.0303 - dense_11_loss: 3235.6213 - dense_2_acc: 0.0000e+00 - dense_5_acc: 0.0000e+00 - dense_8_acc: 0.0000e+00 - dense_11_acc: 0.0000e+00 - val_loss: 13359.7373 - val_dense_2_loss: 2653.0254 - val_dense_5_loss: 5040.9004 - val_dense_8_loss: 3754.0725 - val_dense_11_loss: 1911.7397 - val_dense_2_acc: 0.0000e+00 - val_dense_5_acc: 0.0000e+00 - val_dense_8_acc: 0.0000e+00 - val_dense_11_acc: 0.0000e+00
+cp : 19
+Found 1633 validated image filenames.
+82/82 - 253s - loss: 9339.7441 - dense_2_loss: 1740.0686 - dense_5_loss: 5739.2837 - dense_8_loss: 698.8489 - dense_11_loss: 1161.5422 - dense_2_acc: 0.0000e+00 - dense_5_acc: 0.0000e+00 - dense_8_acc: 0.0000e+00 - dense_11_acc: 0.0000e+00 - val_loss: 17122.4492 - val_dense_2_loss: 1056.2499 - val_dense_5_loss: 10714.4121 - val_dense_8_loss: 2232.0999 - val_dense_11_loss: 3119.6902 - val_dense_2_acc: 0.0000e+00 - val_dense_5_acc: 0.0000e+00 - val_dense_8_acc: 0.0000e+00 - val_dense_11_acc: 0.0000e+00
+cp : 20
+Found 1633 validated image filenames.
+82/82 - 250s - loss: 16573.9746 - dense_2_loss: 4651.5259 - dense_5_loss: 4372.6650 - dense_8_loss: 3575.5806 - dense_11_loss: 3974.2012 - dense_2_acc: 0.0000e+00 - dense_5_acc: 0.0000e+00 - dense_8_acc: 0.0000e+00 - dense_11_acc: 0.0000e+00 - val_loss: 21975.1016 - val_dense_2_loss: 1590.2495 - val_dense_5_loss: 13413.1543 - val_dense_8_loss: 2983.5325 - val_dense_11_loss: 3988.1663 - val_dense_2_acc: 0.0000e+00 - val_dense_5_acc: 0.0000e+00 - val_dense_8_acc: 0.0000e+00 - val_dense_11_acc: 0.0000e+00
+cp : 21
+Found 1633 validated image filenames.
+82/82 - 251s - loss: 21778.4609 - dense_2_loss: 3685.3022 - dense_5_loss: 4892.5317 - dense_8_loss: 7048.7593 - dense_11_loss: 6151.8682 - dense_2_acc: 0.0000e+00 - dense_5_acc: 0.0000e+00 - dense_8_acc: 0.0000e+00 - dense_11_acc: 0.0000e+00 - val_loss: 11121.6279 - val_dense_2_loss: 1712.9287 - val_dense_5_loss: 6591.2632 - val_dense_8_loss: 571.1830 - val_dense_11_loss: 2246.2534 - val_dense_2_acc: 0.0000e+00 - val_dense_5_acc: 0.0000e+00 - val_dense_8_acc: 0.0000e+00 - val_dense_11_acc: 0.0000e+00
+cp : 22
+Found 1633 validated image filenames.
+82/82 - 256s - loss: 13240.7852 - dense_2_loss: 3143.2275 - dense_5_loss: 4873.6821 - dense_8_loss: 2389.2964 - dense_11_loss: 2834.5796 - dense_2_acc: 0.0000e+00 - dense_5_acc: 0.0000e+00 - dense_8_acc: 0.0000e+00 - dense_11_acc: 0.0000e+00 - val_loss: 20556.2754 - val_dense_2_loss: 1807.6874 - val_dense_5_loss: 15073.6113 - val_dense_8_loss: 1299.9678 - val_dense_11_loss: 2375.0088 - val_dense_2_acc: 0.0000e+00 - val_dense_5_acc: 0.0000e+00 - val_dense_8_acc: 0.0000e+00 - val_dense_11_acc: 0.0000e+00
+cp : 23
+Found 1633 validated image filenames.
+82/82 - 256s - loss: 6619.9062 - dense_2_loss: 1330.5753 - dense_5_loss: 2964.8364 - dense_8_loss: 1245.1604 - dense_11_loss: 1079.3329 - dense_2_acc: 0.0000e+00 - dense_5_acc: 0.0000e+00 - dense_8_acc: 0.0000e+00 - dense_11_acc: 0.0000e+00 - val_loss: 16942.1992 - val_dense_2_loss: 2255.3022 - val_dense_5_loss: 5800.3779 - val_dense_8_loss: 3343.4111 - val_dense_11_loss: 5543.1099 - val_dense_2_acc: 0.0000e+00 - val_dense_5_acc: 0.0000e+00 - val_dense_8_acc: 0.0000e+00 - val_dense_11_acc: 0.0000e+00
+cp : 24
+Found 1633 validated image filenames.
+82/82 - 254s - loss: 14209.4014 - dense_2_loss: 1790.2083 - dense_5_loss: 4900.0688 - dense_8_loss: 3447.2568 - dense_11_loss: 4071.8687 - dense_2_acc: 0.0000e+00 - dense_5_acc: 0.0000e+00 - dense_8_acc: 0.0000e+00 - dense_11_acc: 0.0000e+00 - val_loss: 8676.8633 - val_dense_2_loss: 889.6736 - val_dense_5_loss: 2714.8638 - val_dense_8_loss: 2921.6541 - val_dense_11_loss: 2150.6711 - val_dense_2_acc: 0.0000e+00 - val_dense_5_acc: 0.0000e+00 - val_dense_8_acc: 0.0000e+00 - val_dense_11_acc: 0.0000e+00
+cp : 25
+Found 1633 validated image filenames.
+82/82 - 254s - loss: 14975.6572 - dense_2_loss: 2900.1096 - dense_5_loss: 5071.6069 - dense_8_loss: 4167.8345 - dense_11_loss: 2836.1035 - dense_2_acc: 0.0000e+00 - dense_5_acc: 0.0000e+00 - dense_8_acc: 0.0000e+00 - dense_11_acc: 0.0000e+00 - val_loss: 8250.2275 - val_dense_2_loss: 1527.1909 - val_dense_5_loss: 2447.0173 - val_dense_8_loss: 2266.1965 - val_dense_11_loss: 2009.8223 - val_dense_2_acc: 0.0000e+00 - val_dense_5_acc: 0.0000e+00 - val_dense_8_acc: 0.0000e+00 - val_dense_11_acc: 0.0000e+00
+cp : 26
+Found 1633 validated image filenames.
+82/82 - 255s - loss: 16500.7285 - dense_2_loss: 3059.9526 - dense_5_loss: 6968.3687 - dense_8_loss: 3339.2554 - dense_11_loss: 3133.1521 - dense_2_acc: 0.0000e+00 - dense_5_acc: 0.0000e+00 - dense_8_acc: 0.0000e+00 - dense_11_acc: 0.0000e+00 - val_loss: 9863.1768 - val_dense_2_loss: 1117.7996 - val_dense_5_loss: 2612.2053 - val_dense_8_loss: 4551.5000 - val_dense_11_loss: 1581.6732 - val_dense_2_acc: 0.0000e+00 - val_dense_5_acc: 0.0000e+00 - val_dense_8_acc: 0.0000e+00 - val_dense_11_acc: 0.0000e+00
+cp : 27
+Found 1633 validated image filenames.
+82/82 - 253s - loss: 17204.8945 - dense_2_loss: 4528.1958 - dense_5_loss: 5362.7808 - dense_8_loss: 4808.6006 - dense_11_loss: 2505.3179 - dense_2_acc: 0.0000e+00 - dense_5_acc: 0.0000e+00 - dense_8_acc: 0.0000e+00 - dense_11_acc: 0.0000e+00 - val_loss: 6021.6792 - val_dense_2_loss: 860.7943 - val_dense_5_loss: 1117.2794 - val_dense_8_loss: 3168.9802 - val_dense_11_loss: 874.6260 - val_dense_2_acc: 0.0000e+00 - val_dense_5_acc: 0.0000e+00 - val_dense_8_acc: 0.0000e+00 - val_dense_11_acc: 0.0000e+00
+cp : 28
+Found 1633 validated image filenames.
+82/82 - 268s - loss: 15922.4375 - dense_2_loss: 2253.4670 - dense_5_loss: 5098.9028 - dense_8_loss: 4154.2471 - dense_11_loss: 4415.8188 - dense_2_acc: 0.0000e+00 - dense_5_acc: 0.0000e+00 - dense_8_acc: 0.0000e+00 - dense_11_acc: 0.0000e+00 - val_loss: 16091.8809 - val_dense_2_loss: 1003.7460 - val_dense_5_loss: 9057.7207 - val_dense_8_loss: 3183.8176 - val_dense_11_loss: 2846.5981 - val_dense_2_acc: 0.0000e+00 - val_dense_5_acc: 0.0000e+00 - val_dense_8_acc: 0.0000e+00 - val_dense_11_acc: 0.0000e+00
+cp : 29
+Found 1633 validated image filenames.
+82/82 - 252s - loss: 19985.1641 - dense_2_loss: 5176.6719 - dense_5_loss: 5840.5396 - dense_8_loss: 4120.7554 - dense_11_loss: 4847.1948 - dense_2_acc: 0.0000e+00 - dense_5_acc: 0.0000e+00 - dense_8_acc: 0.0000e+00 - dense_11_acc: 0.0000e+00 - val_loss: 29314.0820 - val_dense_2_loss: 10690.6250 - val_dense_5_loss: 11094.1553 - val_dense_8_loss: 2487.5044 - val_dense_11_loss: 5041.8008 - val_dense_2_acc: 0.0000e+00 - val_dense_5_acc: 0.0000e+00 - val_dense_8_acc: 0.0000e+00 - val_dense_11_acc: 0.0000e+00
